@@ -19,7 +19,7 @@ function Prompt(props) {
                             value={props.username}
                             type="text" />
                     </div>
-                    <div className="form-group col-sm-4 col-sm-offset">
+                    <div className="form-group col-sm-4 col-sm-offset-4">
                         <button
                             className="btn btn-block btn-success"
                             type="submit">
